@@ -12,6 +12,11 @@ nav a{
   padding-left:8rem;
   padding-right: 3rem;
 }
+
+.navbar-toggler{
+  background-color: white;
+}
+
 li a{
   font-family: 'Courgette';
   margin-left: 3rem;
@@ -128,5 +133,8 @@ li a{
 @media (max-width: 990px) {
   .container-fluid.row{
     height: 140rem;
+  }
+  nav a{
+    padding-left:3rem;
   }
 }
