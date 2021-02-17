@@ -34,7 +34,7 @@ li a{
 }
 /* Div Section */
 
-.DivHome, .DivHome2, .Div1, .Div2 , .Div3 , .Div4 , .Div4 , .Div5 , .Div6 , .Div7 , .Div8 , .Div9 , .Div10, .Div11, .Div12, .Div13, .Div14, .Div15, .Div16, .Div17, .Div18{
+.DivHome, .DivHome2, .Div1, .Div2 , .Div3 , .Div4 , .Div4 , .Div5 , .Div6 , .Div7 , .Div8 , .Div9 , .Div10, .Div11, .Div12, .Div13, .Div14, .Div15, .Div16, .Div17, .Div18, .Div19, .Div20{
   padding: 0;
   align-items: center;
   background-repeat:no-repeat;
@@ -104,6 +104,12 @@ li a{
 }
 .Div18{
   background-image: url(../img/18.jpg);
+}
+.Div19{
+  background-image: url(../img/Yazı.jpg);
+}
+.Div20{
+  background-image: url(../img/ArkaKapak.png);
 }
 
 
